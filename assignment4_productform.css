@@ -1,0 +1,38 @@
+body {
+    background-size: cover;
+    font-family: sans-serif;
+  }
+form {
+    width: 100%;
+max-width: 1000px;
+padding: 80px 40px 40px;
+background: rgba(47, 64, 83, 0.459);
+border-radius: 10px;
+color: #fff;
+box-shadow: 0 15px 25px rgba(0, 0, 0, 0.5);
+}
+table {
+    width: 100%;
+max-width: 1000px;
+padding: 80px 40px 40px;
+background: rgba(104, 143, 187, 0.459);
+border-radius: 10px;
+color: #fff;
+box-shadow: 0 15px 25px rgba(0, 0, 0, 0.5);
+}
+th{
+    text-align: left;
+    font-size: x-large;
+}
+#totalbutton{
+    box-shadow: 0 10px 15px rgba(104, 143, 187, 0.459);
+    text-align: right;
+    float: right;
+    border-radius: 10px;
+}
+#submit{
+    font-size: xx-large;
+    transform: translateY(100%);
+    transform: translateX(300%);
+    border-radius: 10px;
+}
